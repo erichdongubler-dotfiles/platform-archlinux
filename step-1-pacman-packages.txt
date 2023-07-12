@@ -1,6 +1,12 @@
+bat
+fd
+fzf
 git
+git-delta
 neovim
 openssh
 nushell
 rustup
+starship
 wezterm
+zoxide
