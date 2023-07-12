@@ -1,0 +1,6 @@
+git
+neovim
+openssh
+nushell
+rustup
+wezterm
