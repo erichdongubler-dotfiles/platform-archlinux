@@ -7,6 +7,7 @@ git-delta
 neovim
 nushell
 openssh
+ripgrep
 rustup
 starship
 wezterm
