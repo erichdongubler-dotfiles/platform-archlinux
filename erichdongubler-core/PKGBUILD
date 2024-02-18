@@ -1,0 +1,26 @@
+# Maintainer: Erich Gubler <erichdongubler@gmail.com>
+
+pkgname=erichdongubler-core
+pkgver=1
+pkgrel=1
+pkgdesc="Erich Gubler's preferred installed binaries on Linux"
+url='https://github.com/erichdongubler-dotfiles/platform-archlinux'
+arch=('any')
+# license=('GPL')
+depends=(
+  'git'
+  'bat'
+  'dust'
+  'fd'
+  'fzf'
+  'git'
+  'git-delta'
+  'neovim'
+  'nushell'
+  'openssh'
+  'ripgrep'
+  'rustup'
+  'starship'
+  'wezterm'
+  'zoxide'
+)
