@@ -4,8 +4,8 @@ fzf
 git
 git-delta
 neovim
-openssh
 nushell
+openssh
 rustup
 starship
 wezterm
